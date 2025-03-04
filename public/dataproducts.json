@@ -1,0 +1,379 @@
+{
+    "electronics" : {
+        "Mobiles" : {
+            "brand": {
+                "Apple" : {
+                    "model" : [                        
+                        { 
+                            "name" : "Iphone 14", 
+                            "price" : "53999", 
+                            "description" : "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 12MP + 12MP | 12MP Front Camera A15 Bionic Chip, 6 Core Processor Processor 1 year warranty for phone and 1 year warranty for in Box Accessories.",
+                            "picture" : "https://media.croma.com/image/upload/v1708672728/Croma%20Assets/Communication/Mobiles/Images/261934_0_kukyat.png"
+                        },
+                        { 
+                            "name" : "Iphone 15", 
+                            "price" : "64999", 
+                            "description" : "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP | 12MP Front Camera A16 Bionic Chip, 6 Core Processor Processor 1 year warranty for phone and 1 year warranty for in Box Accessories.",
+                            "picture" : "https://media.croma.com/image/upload/v1708672623/Croma%20Assets/Communication/Mobiles/Images/261930_0_iqucoc.png"
+                        },
+                        { 
+                            "name" : "Iphone 15", 
+                            "price" : "69999", 
+                            "description" : "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP | 12MP Front Camera A18 Chip, 6 Core Processor Processor 1 year warranty for phone and 1 year warranty for in Box Accessories.",
+                            "picture" : "https://media.croma.com/image/upload/v1708672728/Croma%20Assets/Communication/Mobiles/Images/261934_0_kukyat.png"
+                        },
+                        { 
+                            "name" : "Iphone 16", 
+                            "price" : "79999", 
+                            "description" : "128 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display 48MP + 12MP | 12MP Front Camera A18 Chip, 6 Core Processor Processor 1 year warranty for phone and 1 year warranty for in Box Accessories.",
+                            "picture" : "https://media.croma.com/image/upload/v1725959433/Croma%20Assets/Communication/Mobiles/Images/309695_0_hpoykn.png"
+                        }
+                    ]
+                },
+                "Samsung" : {
+                    "model" : [
+                        {
+                            "name" : "Samsung galaxy s23 ultra 5g",
+                            "price" : "73999",
+                            "description" : "12 GB RAM | 256 GB ROM 17.27 cm (6.8 inch) Quad HD+ Display 200MP + 10MP + 12MP + 10MP | 12MP Front Camera 5000 mAh Lithium Ion Battery Qualcomm Snapdragon 8 Gen 2 Processor",
+                            "picture" : "https://media.croma.com/image/upload/v1715785384/Croma%20Assets/Communication/Mobiles/Images/268872_0_gmcdgo.png"
+                        },
+                        {
+                            "name" : "Samsung galaxy s24 ultra 5g",
+                            "price" : "99999",
+                            "description" : "12 GB RAM | 256 GB ROM 17.27 cm (6.8 inch) Quad HD+ Display 200MP + 50MP + 12MP + 10MP | 12MP Front Camera 5000 mAh Battery Snapdragon 8 Gen 3 Processor",
+                            "picture" : "https://media.croma.com/image/upload/v1705576261/Croma%20Assets/Communication/Mobiles/Images/303849_evezut.png"
+                        },
+                        {
+                            "name" : "Samsung galaxy s25 ultra 5g",
+                            "price" : "99999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.53 cm (6.9 inch) Quad HD+ Display 200MP + 50MP + 50MP + 10MP | 12MP Front Camera 5000 mAh Battery 8 Elite for Galaxy Processor",
+                            "picture" : "https://media.croma.com/image/upload/v1737619515/Croma%20Assets/Communication/Mobiles/Images/313341_0_ddny1b.png"
+                        }
+                    ]
+
+                },
+                "Google" : {
+                    "model" : [
+                        {
+                            "name" : "Google pixel 9",
+                            "price" : "74999",
+                            "description" : "12 GB RAM | 256 GB ROM 16.0 cm (6.3 inch) Display 50MP + 48MP | 10.5MP Front Camera 4700 mAh Battery Google Tensor G4 Processor 1 Year Domestic Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1723573808/Croma%20Assets/Communication/Mobiles/Images/309168_0_yqdzbk.png"
+                        },
+                        {
+                            "name" : "Google pixel 9 pro",
+                            "price" : "74999",
+                            "description" : "16 GB RAM | 256 GB ROM 16.0 cm (6.3 inch) Display 50MP + 48MP + 48MP | 42MP Front Camera 4700 mAh Battery G4 Tensor Chip Processor 1 Year Domestic Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1723655226/Croma%20Assets/Communication/Mobiles/Images/309152_0_nd7fye.png"
+                        },
+                        {
+                            "name" : "Google pixel 9 pro xl",
+                            "price" : "74999",
+                            "description" : "16 GB RAM | 512 GB ROM 17.27 cm (6.8 inch) Display 50MP + 48MP + 48MP | 42MP Front Camera 5060 mAh Battery Google Tensor G4 Processor 1 Year Domestic Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1724267254/Croma%20Assets/Communication/Mobiles/Images/309159_10_r0cs6m.png"
+                        }
+                    ]
+
+                }, 
+                "Redmi" : {
+                    "model" : [
+                        {
+                            "name" : "Redmi Note 13 Pro 5G",
+                            "price" : "39999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704270662/Croma%20Assets/Communication/Mobiles/Images/303551_twntzg.png?tr=w-600"
+                        }
+                    ]
+                }
+            }
+        },
+        "Laptops" : {
+            "brand" : {
+                "Apple" : {
+                    "model" : [
+                        {
+                            "name" : "Apple Macbook Pro M2",
+                            "price" : "180000",
+                            "description" : "Apple M4 Processor 24 GB Unified Memory RAM Mac OS Operating System 1 TB SSD 35.56 cm (14 Inch) Display 1 Year Limited Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1730787306/Croma%20Assets/Computers%20Peripherals/Laptop/Images/311847_0_c50tjj.png" 
+                        },
+                        {
+                            "name" : "Apple Macbook Air",
+                            "price" : "130000",
+                            "description" : "Apple M4 Processor 24 GB Unified Memory RAM Mac OS Operating System 1 TB SSD 35.56 cm (14 Inch) Display 1 Year Limited Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1709981563/305384_0_n6bbli.png?tr=w-600" 
+                        },
+                        {
+                            "name" : "Apple Macbook Air M4",
+                            "price" : "130000",
+                            "description" : "Apple M4 Processor 24 GB Unified Memory RAM Mac OS Operating System 1 TB SSD 35.56 cm (14 Inch) Display 1 Year Limited Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1730787066/Croma%20Assets/Computers%20Peripherals/Laptop/Images/310971_0_vqzghx.png?tr=w-600" 
+                        }
+                    ]
+                },
+                "Asus" : {
+                    "model" : [
+                        {
+                            "name" : "Asus Tug Gaming",
+                            "price" : "54999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1715931055/Croma%20Assets/Computers%20Peripherals/Laptop/Images/275766_0_waadvk.png"
+                        },
+                        {
+                            "name" : "Asus Rog Gaming",
+                            "price" : "54999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1715928067/Croma%20Assets/Computers%20Peripherals/Laptop/Images/250325_0_vjbcla.png?tr=w-600"
+                        },
+                        {
+                            "name" : "Asus Tug Gaming A17",
+                            "price" : "94999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1668609006/Croma%20Assets/Computers%20Peripherals/Laptop/Images/265597_wvhlyr.png"
+                        }
+                    ]
+                },
+                "Lenovo" : {
+                    "model" : [
+                        {
+                            "name" : "Lenovo Legion Slim 5",
+                            "price" : "67999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1715939190/Croma%20Assets/Computers%20Peripherals/Laptop/Images/301733_0_zrflam.png"
+                        },
+                        {
+                            "name" : "Lenovo Yoga Slim 6i",
+                            "price" : "60999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1715938510/Croma%20Assets/Computers%20Peripherals/Laptop/Images/301986_0_lkmvuy.png"
+                        },
+                        {
+                            "name" : "Lenovo Yoga Slim 6i",
+                            "price" : "65999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1721213651/Croma%20Assets/Computers%20Peripherals/Laptop/Images/305701_0_xceqoj.png"
+                        }
+                    ]
+                },
+                "MSI" : {
+                    "model" : [
+
+                        {
+                            "name" : "MSI Gaming Thin 15",
+                            "price" : "59999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1736342896/Croma%20Assets/Computers%20Peripherals/Laptop/Images/311031_0_bmrqr0.png"
+                        },
+                        {
+                            "name" : "MSI Stealth 14 AI",
+                            "price" : "89999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1736342904/Croma%20Assets/Computers%20Peripherals/Laptop/Images/311104_0_jwpn36.png"
+                        },
+                        {
+                            "name" : "MSI Gaming Vector 17",
+                            "price" : "65999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1736342928/Croma%20Assets/Computers%20Peripherals/Laptop/Images/311101_0_yijyez.png"
+                        }
+                    ]
+                }
+            }            
+        },
+        "Television" : {
+            "brand" : {
+                "Sony" : {
+                    "model" : [
+                        {
+                            "name" : "Sony 4k OLED",
+                            "price" : "89999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1720154022/Croma%20Assets/Entertainment/Television/Images/308093_jalsdk.png"
+                        },
+                        {
+                            "name" : "Sony 4k QLED",
+                            "price" : "159999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738250479/Croma%20Assets/Entertainment/Television/Images/308025_0_hpnwdv.png"
+                        },
+                        {
+                            "name" : "Sony Bravia 4k QLED",
+                            "price" : "199999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723543962/Croma%20Assets/Entertainment/Television/Images/309576_wgt7ng.png"
+                        },
+                        {
+                            "name" : "Sony Bravia XR",
+                            "price" : "89999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1690214035/Croma%20Assets/Entertainment/Television/Images/273991_0_upqorg.png"
+                        }
+                    ]
+                },
+                "Samsung" : {
+                    "model" : [
+                        {
+                            "name" : "Samsung 4k QLED",
+                            "price" : "159999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1722286020/Croma%20Assets/Entertainment/Television/Images/306173_0_y8hj8l.png"
+                        },
+                        {
+                            "name" : "Samsung 4k Ultra HD",
+                            "price" : "129999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1724856479/Croma%20Assets/Entertainment/Television/Images/305665_0_rbegt1.png"
+                        },
+                        {
+                            "name" : "Samsung 4k Ultra HD",
+                            "price" : "139999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1724857635/Croma%20Assets/Entertainment/Television/Images/305603_0_nbqvdf.png"
+                        }
+                    ]
+                },
+                "LG" : {
+                    "model" : [
+                        {
+                            "name" : "LG 4K QLED",
+                            "price" : "109999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1722274098/Croma%20Assets/Entertainment/Television/Images/274581_0_bqw4jm.png"
+                        },
+                        {
+                            "name" : "LG 4K Ultra HD",
+                            "price" : "169999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1722273936/Croma%20Assets/Entertainment/Television/Images/257195_0_zgbrfi.png"
+                        },
+                        {
+                            "name" : "LG 4K Ultra HD AI",
+                            "price" : "129999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1722272719/Croma%20Assets/Entertainment/Television/Images/274891_0_irg2x5.png"
+                        },
+                        {
+                            "name" : "LG OLED EVO",
+                            "price" : "249999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1715937833/Croma%20Assets/Entertainment/Television/Images/306826_bwfbpo.png"
+                        }
+                    ]
+                },
+                "Mi" : {
+                    "model" : [
+                        {
+                            "name" : "MI 4k Ultra HD",
+                            "price" : "34999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1680331259/242861_0_sarbvm.png"
+                        },
+                        {
+                            "name" : "MI Smart TV",
+                            "price" : "14999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738247557/Croma%20Assets/Entertainment/Television/Images/308003_0_h5i3ua.png"
+                        },
+                        {
+                            "name" : "MI A Series TV",
+                            "price" : "34999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738247557/Croma%20Assets/Entertainment/Television/Images/308003_0_h5i3ua.png"
+                        }
+                    ]
+                }
+            }
+        }, 
+        "Audio": {
+            "brand" : {
+                "AKG" : {
+                    "model" : [
+                        {
+                            "name" : "AKG Y500",
+                            "price" : "9999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718800383/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/221891_0_ibuwwv.png"
+                        },
+                        {
+                            "name" : "AKG Wired Earphone",
+                            "price" : "1999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1669124760/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/258667_2_kc8qk4.png"
+                        }
+                    ]
+                },
+                "Sony" : {
+                    "model" : [
+                        {
+                            "name" : "Sony WH-1000",
+                            "price" : "29999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1669124939/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_0_gsz0tr.png"
+                        },
+                        {
+                            "name" : "Sony WH-CH520",
+                            "price" : "4999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682587098/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/271046_0_iuoobe.png"
+                        },
+                        {
+
+                            "name" : "Sony ULT WEAR",
+                            "price" : "9999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1738248930/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/307141_0_jlwqiw.png"
+                        }
+                    ]
+                }
+            }
+        },
+        "Monitor" : {
+            "brand" : {
+                "lenovo" : {
+                    "model" : [
+                        {
+                            "name" : "Lenovo 24 inch",
+                            "price" : "15999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1737700577/Croma%20Assets/Computers%20Peripherals/Monitor/Images/259390_0_liaqie.png"
+                        },
+                        {
+                            "name" : "Lenovo G Series",
+                            "price" : "11999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1683208625/Croma%20Assets/Computers%20Peripherals/Monitor/Images/249292_0_qe3vl9.png"
+                        },
+                        {
+                            "name" : "Lenovo G25-10",
+                            "price" : "10799",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1718798914/Croma%20Assets/Computers%20Peripherals/Monitor/Images/238030_0_edp3yv.png"
+                        }
+                    ]
+                },
+                "Samsung" : {
+                    "model" : [
+                        {
+                            "name" : "Samsung 22-inch",
+                            "price" : "10999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media.croma.com/image/upload/v1717061839/Croma%20Assets/Computers%20Peripherals/Monitor/Images/305751_0_lrtrvx.png"
+                        },
+                        {
+                            "name" : "Samsung 24-inch",
+                            "price" : "17999",
+                            "description" : "12 GB RAM | 512 GB ROM 17.02 cm (6.7 inch) Full HD+ Display 50 MP(OIS) +50MP | 32MP Front Camera 4700 mAh Lithium ion Battery Qualcomm Snapdragon 8+ Gen 1 Processor LTPO AMOLED (1 Hz - 120 Hz) 1 Year Manufacturing Warranty",
+                            "picture" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697625357/Croma%20Assets/Computers%20Peripherals/Monitor/Images/242206_afg7ff.png"
+                        }
+                    ]
+                }
+            }            
+        }
+        
+    },
+    "home" : {
+        
+    }
+    
+}
